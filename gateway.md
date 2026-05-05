@@ -1,8 +1,8 @@
-**🚀 Bradyn Schwartz - Gateway Portfolio**
+# **🚀 Bradyn Schwartz - Gateway Portfolio**
 
 Welcome to my programming portfolio repository. This portfolio contains projects completed throughout my coursework and personal practice. These projects demonstrate my experience with JavaScript, full-stack web development, DOM manipulation, APIs, local storage, validation, modular programming, and interactive web applications.
 
-**📚 Table of Contents**
+# **📚 Table of Contents**
 
 | Repository                                                 | Primary Tech                   | Category             |
 | ---------------------------------------------------------- | ------------------------------ | -------------------- |
@@ -16,13 +16,13 @@ Welcome to my programming portfolio repository. This portfolio contains projects
 
 ---
 
-**🌌 ISS Tracker**
+# **🌌 ISS Tracker**
 
-**📖 Project Summary**
+## **📖 Project Summary**
 
 The ISS Tracker is a full-stack web application that displays the real-time location of the International Space Station using a public API. The application fetches live latitude and longitude coordinates and displays them in a clean, modern interface.
 
-**🛠️ Technologies Used**
+## **🛠️ Technologies Used**
 
 * JavaScript
 
@@ -30,9 +30,9 @@ The ISS Tracker is a full-stack web application that displays the real-time loca
 
 * Express.js
 
-**💡 Key Concepts Learned**
+## **💡 Key Concepts Learned**
 
- API integration
+* API integration
 
 * Async programming with fetch()
 
@@ -44,7 +44,7 @@ The ISS Tracker is a full-stack web application that displays the real-time loca
 
 * Dynamic UI updates
 
-**✨ Features**
+## **✨ Features**
 
 * Real-time ISS location tracking
 
@@ -56,15 +56,15 @@ The ISS Tracker is a full-stack web application that displays the real-time loca
 
 * Error handling for failed API calls
 
-**📂 Project Status**
+## **📂 Project Status**
 
 ✅ Completed
 
-**🎓 Course / Project Type**
+## **🎓 Course / Project Type**
 
 CSC465 Advanced Web Development
 
-**🔗 Repository**
+## **🔗 Repository**
 
 [ISS-tracker](https://github.com/bradynschwartz/node-ISS-tracker.git)
 
@@ -73,13 +73,13 @@ CSC465 Advanced Web Development
 
 ---
 
-**🎬 Movie List App**
+# **🎬 Movie List App**
 
-**📖 Project Summary**
+## **📖 Project Summary**
 
 The Movie List App is a browser-based application that allows users to add, sort, delete, and manage a list of movies. The app uses modular JavaScript and localStorage to permanently save data between sessions.
 
-**🛠️ Technologies Used**
+## **🛠️ Technologies Used**
 
 * HTML5
 
@@ -87,7 +87,7 @@ The Movie List App is a browser-based application that allows users to add, sort
 
 * Local Storage API
 
-**💡 Key Concepts Learned**
+## **💡 Key Concepts Learned**
 
 * Import/export syntax
 
@@ -99,7 +99,7 @@ The Movie List App is a browser-based application that allows users to add, sort
 
 * DOM manipulation
 
-**✨ Features**
+## **✨ Features**
 
 * Add movies
 
@@ -113,15 +113,15 @@ The Movie List App is a browser-based application that allows users to add, sort
 
 * Dynamic UI updates
 
-**📂 Project Status**
+## **📂 Project Status**
 
 ✅ Completed
 
-**🎓 Course / Project Type**
+## **🎓 Course / Project Type**
 
 CSC465 Advanced Web Development
 
-**🔗 Repository**
+## **🔗 Repository**
 
 [Movie List App](https://github.com/bradynschwartz/Movie_tracker.git)
 
@@ -130,19 +130,19 @@ CSC465 Advanced Web Development
 
 ---
 
-**💰 Retirement Projector**
+# **💰 Retirement Projector**
 
-**📖 Project Summary**
+## **📖 Project Summary**
 
 The Retirement Projector is an interactive financial calculator that estimates retirement savings growth over time. The application validates user input, stores data using localStorage, and displays yearly retirement growth projections.
 
-**🛠️ Technologies Used**
+## **🛠️ Technologies Used**
 
 * JavaScript
 
 * Local Storage API
 
-**💡 Key Concepts Learned**
+## **💡 Key Concepts Learned**
 
 * Form validation
 
@@ -156,7 +156,7 @@ The Retirement Projector is an interactive financial calculator that estimates r
 
 * Dynamic DOM updates
 
-**✨ Features**
+## **✨ Features**
 
 * Live retirement projections
 
@@ -170,15 +170,15 @@ The Retirement Projector is an interactive financial calculator that estimates r
 
 * Local storage support
 
-**📂 Project Status**
+## **📂 Project Status**
 
 ✅ Completed
 
-**🎓 Course / Project Type**
+## **🎓 Course / Project Type**
 
 CSC465 Advanced Web Development
 
-**🔗 Repository**
+## **🔗 Repository**
 
 [Retirement countdown](https://github.com/bradynschwartz/Retirement_countdown.git)
 
@@ -187,13 +187,13 @@ CSC465 Advanced Web Development
 
 ---
 
-**⌚ SmartwatchPro FAQ**
+# **⌚ SmartwatchPro FAQ**
 
-**📖 Project Summary**
+## **📖 Project Summary**
 
 The SmartwatchPro FAQ is an interactive FAQ web page that dynamically displays answers and changes images when questions are selected. The project focuses on DOM manipulation and event-driven programming.
 
-**🛠️ Technologies Used**
+## **🛠️ Technologies Used**
 
 * HTML5
 
@@ -201,7 +201,7 @@ The SmartwatchPro FAQ is an interactive FAQ web page that dynamically displays a
 
 * JavaScript
 
-**💡 Key Concepts Learned**
+## **💡 Key Concepts Learned**
 
 * Event listeners
 
@@ -213,7 +213,7 @@ The SmartwatchPro FAQ is an interactive FAQ web page that dynamically displays a
 
 * Accordion-style UI interactions
 
-**✨ Features**
+## **✨ Features**
 
 * Expandable FAQ sections
 
@@ -225,15 +225,15 @@ The SmartwatchPro FAQ is an interactive FAQ web page that dynamically displays a
 
 * Single-answer accordion behavior
 
-**📂 Project Status**
+## **📂 Project Status**
 
 ✅ Completed
 
-**🎓 Course / Project Type**
+## **🎓 Course / Project Type**
 
 CSC465 Advanced Web Development
 
-**🔗 Repository**
+## **🔗 Repository**
 
 [SmartwatchPro FAQ](https://github.com/bradynschwartz/Smartwatch_Pro_FAQ.git)
 
@@ -242,13 +242,13 @@ CSC465 Advanced Web Development
 
 ---
 
-**🔥 Number Guessing Game**
+# **🔥 Number Guessing Game**
 
-**📖 Project Summary**
+## **📖 Project Summary**
 
 The Number Guessing Game is a browser-based interactive game where players attempt to guess a randomly generated number between 1 and 100. The app provides feedback based on how close the guess is.
 
-**🛠️ Technologies Used**
+## **🛠️ Technologies Used**
 
 * HTML5
 
@@ -256,7 +256,7 @@ The Number Guessing Game is a browser-based interactive game where players attem
 
 * JavaScript
 
-**💡 Key Concepts Learned**
+## **💡 Key Concepts Learned**
 
 * Random number generation
 
@@ -270,7 +270,7 @@ The Number Guessing Game is a browser-based interactive game where players attem
 
 * Game state management
 
-**✨ Features**
+## **✨ Features**
 
 * Random number generation
 
@@ -284,15 +284,15 @@ The Number Guessing Game is a browser-based interactive game where players attem
 
 * Replay functionality
 
-**📂 Project Status**
+## **📂 Project Status**
 
 ✅ Completed
 
-**🎓 Course / Project Type**
+## **🎓 Course / Project Type**
 
 CSC465 Advanced Web Development
 
-**🔗 Repository**
+## **🔗 Repository**
 
 [Number Guessing Game](https://github.com/bradynschwartz/Chapter_5_guessing_game.git)
 
@@ -301,13 +301,13 @@ CSC465 Advanced Web Development
 
 ---
 
-**📚 Flashcards App**
+# **📚 Flashcards App**
 
-**📖 Project Summary**
+## **📖 Project Summary**
 
 The Flashcards App is a browser-based study utility that allows users to create, list, quiz, and clear flashcards for studying purposes. The app demonstrates active recall concepts using JavaScript.
 
-**🛠️ Technologies Used**
+## **🛠️ Technologies Used**
 
 * HTML5
 
@@ -315,7 +315,7 @@ The Flashcards App is a browser-based study utility that allows users to create,
 
 * JavaScript
 
-**💡 Key Concepts Learned**
+## **💡 Key Concepts Learned**
 
 * Arrays and state management
 
@@ -329,7 +329,7 @@ The Flashcards App is a browser-based study utility that allows users to create,
 
 * String manipulation
 
-**✨ Features**
+## **✨ Features**
 
 * Add flashcards
 
@@ -343,15 +343,15 @@ The Flashcards App is a browser-based study utility that allows users to create,
 
 * Dynamic output updates
 
-**📂 Project Status**
+## **📂 Project Status**
 
 ✅ Completed
 
-**🎓 Course / Project Type**
+## **🎓 Course / Project Type**
 
 CSC465 Advanced Web Development
 
-**🔗 Repository**
+## **🔗 Repository**
 
 [Flashcards App](https://github.com/bradynschwartz/chapter3_4assignment.git)
 
@@ -360,13 +360,13 @@ CSC465 Advanced Web Development
 
 ---
 
-**🛒 Grocery Receipt Calculator**
+# **🛒 Grocery Receipt Calculator**
 
-**📖 Project Summary**
+## **📖 Project Summary**
 
 The Grocery Receipt Calculator is a web-based application that validates grocery purchase information, calculates totals, discounts, taxes, and generates a formatted receipt.
 
-**🛠️ Technologies Used**
+## **🛠️ Technologies Used**
 
 * HTML5
 
@@ -374,7 +374,7 @@ The Grocery Receipt Calculator is a web-based application that validates grocery
 
 * JavaScript
 
-**💡 Key Concepts Learned**
+## **💡 Key Concepts Learned**
 
 * Form validation
 
@@ -388,7 +388,7 @@ The Grocery Receipt Calculator is a web-based application that validates grocery
 
 * Event handling
 
-**✨ Features**
+## **✨ Features**
 
 * Inline validation messages
 
@@ -400,15 +400,15 @@ The Grocery Receipt Calculator is a web-based application that validates grocery
 
 * Dynamic calculations
 
-**📂 Project Status**
+## **📂 Project Status**
 
 ✅ Completed
 
-**🎓 Course / Project Type**
+## **🎓 Course / Project Type**
 
 CSC465 Advanced Web Development
 
-**🔗 Repository**
+## **🔗 Repository**
 
 [Grocery Receipt Calculator](https://github.com/bradynschwartz/chp_01_assignment.git)
 
