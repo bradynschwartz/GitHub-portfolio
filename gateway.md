@@ -69,7 +69,7 @@ CSC465 Advanced Web Development
 [ISS-tracker](https://github.com/bradynschwartz/node-ISS-tracker.git)
 
 
-[⬆ Back to TOC](#table-of-contents)
+[⬆ Back to TOC](#-table-of-contents)
 
 ---
 
