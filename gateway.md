@@ -126,7 +126,7 @@ CSC465 Advanced Web Development
 [Movie List App](https://github.com/bradynschwartz/Movie_tracker.git)
 
 
-[⬆ Back to TOC](#table-of-contents)
+[⬆ Back to TOC](#-table-of-contents)
 
 ---
 
