@@ -6,13 +6,13 @@ Welcome to my programming portfolio repository. This portfolio contains projects
 
 | Repository                                                 | Primary Tech                   | Category             |
 | ---------------------------------------------------------- | ------------------------------ | -------------------- |
-| [ISS Tracker](#iss-tracker)                               | JavaScript / Node.js / Express | Full-Stack Web App   |
-| [Movie List App](#movie-list-app)                         | JavaScript ES6 Modules         | Movie Management App |
-| [Retirement Projector](#retirement-projector)             | JavaScript                     | Financial Calculator |
-| [SmartwatchPro FAQ](#smartwatchpro-faq)                   | JavaScript / DOM               | Interactive FAQ UI   |
-| [Number Guessing Game](#number-guessing-game)             | JavaScript                     | Browser Game         |
-| [Flashcards App](#flashcards-app)                         | JavaScript                     | Study Utility App    |
-| [Grocery Receipt Calculator](#grocery-receipt-calculator) | JavaScript                     | Receipt Generator    |
+| [ISS Tracker](#-iss-tracker)                               | JavaScript / Node.js / Express | Full-Stack Web App   |
+| [Movie List App](#-movie-list-app)                         | JavaScript ES6 Modules         | Movie Management App |
+| [Retirement Projector](#-retirement-projector)             | JavaScript                     | Financial Calculator |
+| [SmartwatchPro FAQ](#-smartwatchpro-faq)                   | JavaScript / DOM               | Interactive FAQ UI   |
+| [Number Guessing Game](#-number-guessing-game)             | JavaScript                     | Browser Game         |
+| [Flashcards App](#-flashcards-app)                         | JavaScript                     | Study Utility App    |
+| [Grocery Receipt Calculator](#-grocery-receipt-calculator) | JavaScript                     | Receipt Generator    |
 
 ---
 
